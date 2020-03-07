@@ -14,7 +14,7 @@ echo "source /usr/local/bin/virtualenvwrapper.sh" >> $EXTRA_PATH
 echo "" >> $BASH_PROFILE_PATH
 source $EXTRA_PATH
 
-mkvirtualenv --python=/usr/local/bin/python3 pydata
+mkvirtualenv --python=$(which python 3) pydata
 
 workon pydata
 

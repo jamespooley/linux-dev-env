@@ -1,0 +1,52 @@
+apt-get update
+apt-get install python3
+
+pip install virtualenv
+pip install virtualenvwrapper
+
+EXTRA_PATH=~/.extra
+echo $EXTRA_PATH
+echo "" >> $EXTRA_PATH
+echo "" >> $EXTRA_PATH
+echo "# Source virtualenvwrapper, added py setup.sh" >> $EXTRA_PATH
+echo "export WORKON_HOME=~/.virtualenvs" >> $EXTRA_PATH
+echo "source /usr/local/bin/virtualenvwrapper.sh" >> $EXTRA_PATH
+echo "" >> $BASH_PROFILE_PATH
+source $EXTRA_PATH
+
+mkvirtualenv --python=/usr/local/bin/python3 pydata
+
+workon pydata
+
+pip install numpy
+pip install scipy
+pip install pandas
+pip install dask
+pip install matplotlib
+pip install seaborn
+pip install statsmodels
+pip install lifelines
+pip install scikit-learn
+pip install imbalanced-learn
+pip install tensorflow
+pip install tensorflow-probability
+pip install pystan
+pip install jupyter
+pip install ipykernel
+pip install bokeh
+pip install numba
+pip install python-yaml
+pip install ujson
+pip install feather-format
+pip install apache-airflow
+pip install boto3
+pip install Flask
+pip install Flask-SQLAlchemy
+pip install Flask-Migrate
+pip install Flask-WTF
+pip install sqlalchemy
+pip install requests
+pip install click
+pip install tqdm
+
+deactivate

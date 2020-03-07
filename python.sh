@@ -29,6 +29,7 @@ pip install lifelines
 pip install scikit-learn
 pip install scikit-image
 pip install imbalanced-learn
+pip install mlxtend
 pip install tensorflow
 pip install tensorflow-probability
 pip install pystan

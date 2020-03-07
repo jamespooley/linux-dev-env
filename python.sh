@@ -34,6 +34,7 @@ pip install glmnet
 pip install civisml-extensions
 pip install tensorflow
 pip install tensorflow-probability
+pip install keras
 pip install pystan
 pip install jupyter
 pip install ipykernel

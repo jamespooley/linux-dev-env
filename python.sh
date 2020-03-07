@@ -40,6 +40,8 @@ pip install jupyter
 pip install ipykernel
 pip install bokeh
 pip install numba
+pip install joblib
+pip install sacred
 pip install python-yaml
 pip install ujson
 pip install feather-format

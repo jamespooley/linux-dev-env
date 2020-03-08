@@ -8,6 +8,9 @@ Scripts to get my Linux development environment up and running
 
 An attempt to get most of the software I need to get my work done centralized in one place.
 
+I've yet to make the switch to Z shell, and the evergreen bash is still
+my shell of choice. However, this may be a mistake ... I can't make up my mind here.
+
 ### Installation
 
 ```bash

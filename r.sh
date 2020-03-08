@@ -37,6 +37,7 @@ Rscript -e 'install.packages(c(\
   "tidybayes",
   "rstan", \
   "rstanarm", \
+  "mlogit", \
   "DBI", \
   "dbplyr", \
   "config", \

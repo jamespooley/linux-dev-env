@@ -1,6 +1,17 @@
 apt-get install fonts-inconsolata -y
 fc-cache -fv
 
+apt update
+apt install git
+
+add-apt-repository ppa:jonathonf/vim
+apt update
+apt install vim
+
+apt install neovim
+apt install python-neovim
+apt install python3-neovim
+
 # Cloud Platform Command Line Tools
 
 pip install awscli

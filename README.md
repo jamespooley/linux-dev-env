@@ -20,3 +20,4 @@ $ ./python.sh
 * [Things to Do After Installing Ubuntu 18.04 and 19.10](https://itsfoss.com/things-to-do-after-installing-ubuntu-18-04/)
 * [This](https://github.com/donnemartin/dev-setup) repo with shell scripts
 for setting up a new developer machine.
+* [Data Science at the Command Line](https://www.datascienceatthecommandline.com/)

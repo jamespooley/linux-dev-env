@@ -4,8 +4,16 @@ Scripts to get my Linux development environment up and running
 
 ### Overview
 
+**NOTE:** This is a WIP so no "one script to install them all" is ready ... yet.
+
 An attempt to get most of the software I need to get my work done centralized in one place.
 
+### Installation
+
+```bash
+git clone https://github.com/jamespooley/linux-dev-env.git && cd linux-dev-env
+./python.sh
+```
 
 ### Further Reading
 

@@ -38,6 +38,7 @@ pip install keras
 pip install pystan
 pip install jupyter
 pip install ipykernel
+pip install nbdime
 pip install bokeh
 pip install numba
 pip install joblib

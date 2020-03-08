@@ -54,8 +54,30 @@ pip install Flask-SQLAlchemy
 pip install Flask-Migrate
 pip install Flask-WTF
 pip install sqlalchemy
+pip install psycopg2
 pip install requests
 pip install click
 pip install tqdm
+pip install beautifulsoup4
 
 deactivate
+
+
+mkvirtualenv --python=$(which python 3) webdev
+
+workon webdev
+
+pip install requests
+pip install aoihttp
+pip install aoidns
+pip install Flask
+pip install Flask-SQLAlchemy
+pip install Flask-Migrate
+pip install Flask-WTF
+pip install sqlalchemy
+pip install click
+pip install beautifulsoup4
+pip install psycopg2
+
+deactivate
+

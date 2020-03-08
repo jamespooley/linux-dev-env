@@ -21,3 +21,4 @@ $ ./python.sh
 * [This](https://github.com/donnemartin/dev-setup) repo with shell scripts
 for setting up a new developer machine.
 * [Data Science at the Command Line](https://www.datascienceatthecommandline.com/)
+* [Initial Steps Towards Reproducible Research](https://kbroman.org/steps2rr/)

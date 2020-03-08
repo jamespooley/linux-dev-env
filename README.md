@@ -11,8 +11,8 @@ An attempt to get most of the software I need to get my work done centralized in
 ### Installation
 
 ```bash
-git clone https://github.com/jamespooley/linux-dev-env.git && cd linux-dev-env
-./python.sh
+$ git clone https://github.com/jamespooley/linux-dev-env.git && cd linux-dev-env
+$ ./python.sh
 ```
 
 ### Further Reading

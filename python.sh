@@ -36,6 +36,7 @@ pip install tensorflow
 pip install tensorflow-probability
 pip install keras
 pip install pystan
+pip install pymc3
 pip install jupyter
 pip install ipykernel
 pip install nbdime

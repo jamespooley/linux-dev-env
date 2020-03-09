@@ -78,6 +78,7 @@ pip install sqlalchemy
 pip install click
 pip install beautifulsoup4
 pip install psycopg2
+pip install molotov
 
 deactivate
 

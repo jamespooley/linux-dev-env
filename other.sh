@@ -27,3 +27,14 @@ tar -xvf ~/Downloads/$GCP_LINK
 curl -LO https://storage.googleapis.com/kubernetes-release/release/`curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt`/bin/linux/amd64/kubectl
 chmod +x ./kubectl
 mv ./kubectl /usr/local/bin/kubectl
+
+
+# Graphviz
+
+apt-get install flex
+apt-get install Perl
+apt-get install automake
+apt-get install bison
+apt-get install libtool
+apt-get install byacc
+apt-get install xdot

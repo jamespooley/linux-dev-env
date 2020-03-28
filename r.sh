@@ -65,6 +65,8 @@ Rscript -e 'install.packages(c(\
   "withr"
 ))'
 
+Rscript -e 'devtools::install_github("cnchapman/choicetools")'
+
 apt install gdebi-core
 curl -Llso \
   "https://download1.rstudio.org/desktop/bionic/amd64/rstudio-1.2.5033-amd64.deb" ~/Downloads

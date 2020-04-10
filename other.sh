@@ -1,5 +1,7 @@
 gem install tmuxinator
 
+apt-get install -y jq
+
 apt-get install fonts-inconsolata -y
 fc-cache -fv
 

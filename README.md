@@ -26,3 +26,4 @@ for setting up a new developer machine.
 * [Data Science at the Command Line](https://www.datascienceatthecommandline.com/)
 * [Initial Steps Towards Reproducible Research](https://kbroman.org/steps2rr/)
 * [How to Use the Ubuntu Password Manager](https://www.lifewire.com/guide-to-seahorse-tool-2196541)
+* [Data Science at the Command Line](https://www.datascienceatthecommandline.com/)

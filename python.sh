@@ -60,6 +60,8 @@ pip install requests
 pip install click
 pip install tqdm
 pip install beautifulsoup4
+pip install fbprophet
+pip install tbats
 
 deactivate
 

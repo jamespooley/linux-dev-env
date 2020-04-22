@@ -19,6 +19,7 @@ apt install python3-neovim
 # Cloud Platform Command Line Tools
 
 pip install awscli
+pip install saws
 
 GCP_LINK=https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-sdk-283.0.0-linux-x86_64.tar.gz
 curl -Llso $GCP_LINK ~/Downloads

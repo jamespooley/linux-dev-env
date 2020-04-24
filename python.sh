@@ -42,6 +42,7 @@ pip install pymc3
 pip install jupyter
 pip install ipykernel
 pip install nbdime
+pip install papermill
 pip install bokeh
 pip install numba
 pip install joblib

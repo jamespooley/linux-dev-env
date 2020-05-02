@@ -58,6 +58,7 @@ Rscript -e 'install.packages(c(\
   "plumber", \
   "forecast", \
   "CausalImpact", \
+  "forecastML", \
   "bsts", \
   "bayesplot", \
   "assertive", \

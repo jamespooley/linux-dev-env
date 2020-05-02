@@ -43,3 +43,9 @@ apt-get install bison
 apt-get install libtool
 apt-get install byacc
 apt-get install xdot
+
+
+# libtiff-dev
+
+apt-get update -y
+apt-get install -y libtiff-dev

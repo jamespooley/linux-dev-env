@@ -67,6 +67,7 @@ Rscript -e 'install.packages(c(\
 ))'
 
 Rscript -e 'devtools::install_github("cnchapman/choicetools")'
+Rscript -e 'devtools::install_github("gadenbuie/rsthemes")'
 
 apt install gdebi-core
 curl -Llso \

@@ -34,6 +34,7 @@ pip install xgboost
 pip install mlxtend
 pip install glmnet
 pip install civisml-extensions
+pip install deslib
 pip install tensorflow
 pip install tensorflow-probability
 pip install keras

@@ -67,6 +67,7 @@ pip install fbprophet
 pip install tbats
 pip install rpy2
 pip install geopandas
+pip install cvxopt
 
 deactivate
 

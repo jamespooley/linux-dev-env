@@ -43,3 +43,8 @@ apt-get install bison
 apt-get install libtool
 apt-get install byacc
 apt-get install xdot
+
+
+# GitHub Actions CLI
+
+npm install -g actions-cli

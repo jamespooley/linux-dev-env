@@ -28,3 +28,4 @@ for setting up a new developer machine.
 * [How to Use the Ubuntu Password Manager](https://www.lifewire.com/guide-to-seahorse-tool-2196541)
 * [Data Science at the Command Line](https://www.datascienceatthecommandline.com/)
 * [How to Show Asterisks while Typing `sudo` Password in Linux](https://www.tecmint.com/show-asterisks-sudo-password-in-linux/)
+* [How to Edit the `sudoers` File on Ubuntu and CentOS](https://www.digitalocean.com/community/tutorials/how-to-edit-the-sudoers-file-on-ubuntu-and-centos)

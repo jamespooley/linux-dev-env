@@ -29,3 +29,4 @@ for setting up a new developer machine.
 * [Data Science at the Command Line](https://www.datascienceatthecommandline.com/)
 * [How to Show Asterisks while Typing `sudo` Password in Linux](https://www.tecmint.com/show-asterisks-sudo-password-in-linux/)
 * [How to Edit the `sudoers` File on Ubuntu and CentOS](https://www.digitalocean.com/community/tutorials/how-to-edit-the-sudoers-file-on-ubuntu-and-centos)
+* [How Linux Works: What Every Superuser Should Know (2nd Edition)](https://nostarch.com/howlinuxworks2)

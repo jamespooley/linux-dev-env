@@ -27,3 +27,4 @@ for setting up a new developer machine.
 * [Initial Steps Towards Reproducible Research](https://kbroman.org/steps2rr/)
 * [How to Use the Ubuntu Password Manager](https://www.lifewire.com/guide-to-seahorse-tool-2196541)
 * [Data Science at the Command Line](https://www.datascienceatthecommandline.com/)
+* [How to Show Asterisks while Typing `sudo` Password in Linux](https://www.tecmint.com/show-asterisks-sudo-password-in-linux/)

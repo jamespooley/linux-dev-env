@@ -80,3 +80,6 @@ curl -Llso \
 gdebi ~/Downloads/rstudio-1.2.5033-amd64.deb
 rm ~/Downloads/rstudio-1.2.5033-amd64.deb
 
+
+git clone https://github.com/jalvesaq/colorout.git
+R CMD INSTALL colorout

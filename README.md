@@ -30,3 +30,4 @@ for setting up a new developer machine.
 * [How to Show Asterisks while Typing `sudo` Password in Linux](https://www.tecmint.com/show-asterisks-sudo-password-in-linux/)
 * [How to Edit the `sudoers` File on Ubuntu and CentOS](https://www.digitalocean.com/community/tutorials/how-to-edit-the-sudoers-file-on-ubuntu-and-centos)
 * [How Linux Works: What Every Superuser Should Know (2nd Edition)](https://nostarch.com/howlinuxworks2)
+* [Installation of R 4.0 on Ubuntu 20.04 LTS and Tips for Spatial Packages](https://rtask.thinkr.fr/installation-of-r-4-0-on-ubuntu-20-04-lts-and-tips-for-spatial-packages/)

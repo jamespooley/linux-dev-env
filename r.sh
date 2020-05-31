@@ -68,7 +68,8 @@ Rscript -e 'install.packages(c(\
   "withr", \
   "blogdown", \
   "renv", \
-  "pool"
+  "pool", \
+  "gratia"
 ))'
 
 Rscript -e 'devtools::install_github("cnchapman/choicetools")'

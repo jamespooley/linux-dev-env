@@ -11,12 +11,6 @@ An attempt to get most of the software I need to get my work done centralized in
 I've yet to make the switch to Z shell, and the evergreen bash is still
 my shell of choice. However, this may be a mistake ... I can't make up my mind here.
 
-### Installation
-
-```bash
-$ git clone https://github.com/jamespooley/linux-dev-env.git && cd linux-dev-env
-$ ./python.sh
-```
 
 ### Further Reading
 

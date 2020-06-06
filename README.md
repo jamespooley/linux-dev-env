@@ -27,3 +27,4 @@ for setting up a new developer machine.
 * [Installation of R 4.0 on Ubuntu 20.04 LTS and Tips for Spatial Packages](https://rtask.thinkr.fr/installation-of-r-4-0-on-ubuntu-20-04-lts-and-tips-for-spatial-packages/)
 * [How to Set Up R on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-r-on-ubuntu-14-04)
 * [How to Set Up Shiny Server on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-shiny-server-on-ubuntu-14-04)
+* Dane Hillard's [dotfiles](https://github.com/daneah/dotfiles) repo is worth a study

@@ -69,6 +69,7 @@ pip install rpy2
 pip install geopandas
 pip install cvxopt
 pip install pycaret
+pip install pyomo
 
 deactivate
 

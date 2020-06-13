@@ -48,3 +48,10 @@ apt-get install xdot
 # GitHub Actions CLI
 
 npm install -g actions-cli
+
+
+# ODBC
+
+apt-get install unixodbc unixodbc-dev --install suggests
+apt-get install odbc-postgresql
+apt-get install libsqliteodbc

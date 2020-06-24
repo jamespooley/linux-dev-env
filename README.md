@@ -29,3 +29,4 @@ for setting up a new developer machine.
 * [How to Set Up Shiny Server on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-shiny-server-on-ubuntu-14-04)
 * Dane Hillard's [dotfiles](https://github.com/daneah/dotfiles) repo is worth a study
 * [An Emacs Starter Kit for the Social Sciences](https://kieranhealy.org/resources/emacs-starter-kit/)
+* [Improving the Command-Line Postgres Experience](https://thoughtbot.com/blog/improving-the-command-line-postgres-experience)

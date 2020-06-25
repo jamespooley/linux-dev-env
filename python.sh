@@ -27,6 +27,7 @@ pip install matplotlib
 pip install seaborn
 pip install statsmodels
 pip install lifelines
+pip install sktime
 pip install scikit-learn
 pip install scikit-image
 pip install imbalanced-learn

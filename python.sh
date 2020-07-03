@@ -43,6 +43,7 @@ pip install keras
 pip install pystan
 pip install pymc3
 pip install jupyter
+pip install jupytext
 pip install ipykernel
 pip install nbdime
 pip install papermill[all]

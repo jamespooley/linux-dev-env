@@ -25,6 +25,7 @@ fi
 Rscript -e 'install.packages(c(\
   "tidyverse", \
   "rlang", \
+  "processx", \
   "devtools", \
   "vroom", \
   "readxl", \

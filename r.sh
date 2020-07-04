@@ -60,6 +60,8 @@ Rscript -e 'install.packages(c(\
   "forecast", \
   "CausalImpact", \
   "forecastML", \
+  "fables", \
+  "tsutils", \
   "pammmtools", \
   "bsts", \
   "bayesplot", \

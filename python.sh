@@ -77,7 +77,7 @@ pip install pyomo
 deactivate
 
 
-mkvirtualenv --python=$(which python 3) webdev
+mkvirtualenv --python=$(which python 3) fullstack
 
 workon webdev
 
@@ -93,7 +93,9 @@ pip install click
 pip install beautifulsoup4
 pip install psycopg2
 pip install molotov
+pip install python-jose
 
 deactivate
+
 
 curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python

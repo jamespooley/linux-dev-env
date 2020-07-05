@@ -50,6 +50,15 @@ apt-get install xdot
 npm install -g actions-cli
 
 
+# git-secret
+
+echo "deb https://dl.bintray.com/sobolevn/deb git-secret main" | \
+  tee -a /etc/apt/sources.list
+wget -qO - https://api.bintray.com/users/sobolevn/keys/gpg/public.key | \
+  apt-key add -
+apt-get update && sudo apt-get install git-secret
+
+
 # ODBC
 
 apt-get install unixodbc unixodbc-dev --install suggests

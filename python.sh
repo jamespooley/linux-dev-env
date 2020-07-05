@@ -94,6 +94,7 @@ pip install beautifulsoup4
 pip install psycopg2
 pip install molotov
 pip install python-jose
+pip install bcrypt
 
 deactivate
 

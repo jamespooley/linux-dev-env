@@ -36,6 +36,7 @@ pip install xgboost
 pip install mlxtend
 pip install glmnet
 pip install civisml-extensions
+pip install pyglmnet
 pip install deslib
 pip install tensorflow
 pip install tensorflow-probability
@@ -73,6 +74,7 @@ pip install geopandas
 pip install cvxopt
 pip install pycaret
 pip install pyomo
+pip install ratelimit
 
 deactivate
 
@@ -95,6 +97,7 @@ pip install psycopg2
 pip install molotov
 pip install python-jose
 pip install bcrypt
+pip install ratelimit
 
 deactivate
 

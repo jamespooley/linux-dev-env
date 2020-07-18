@@ -61,6 +61,7 @@ pip install Flask
 pip install Flask-SQLAlchemy
 pip install Flask-Migrate
 pip install Flask-WTF
+pip install flask-bootstrap
 pip install sqlalchemy
 pip install psycopg2
 pip install requests

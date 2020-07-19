@@ -58,9 +58,9 @@ pip install feather-format
 pip install apache-airflow
 pip install boto3
 pip install Flask
-pip install Flask-SQLAlchemy
-pip install Flask-Migrate
-pip install Flask-WTF
+pip install flask-sqlalchemy
+pip install flask-migrate
+pip install flask-wtf
 pip install flask-bootstrap
 pip install sqlalchemy
 pip install psycopg2
@@ -88,9 +88,9 @@ pip install requests
 pip install aoihttp
 pip install aoidns
 pip install Flask
-pip install Flask-SQLAlchemy
-pip install Flask-Migrate
-pip install Flask-WTF
+pip install flask-sqlalchemy
+pip install flask-migrate
+pip install flask-wtf
 pip install flask-moment
 pip install flask-bootstrap
 pip install sqlalchemy
@@ -101,6 +101,7 @@ pip install molotov
 pip install python-jose
 pip install bcrypt
 pip install ratelimit
+pip install boto3
 
 deactivate
 

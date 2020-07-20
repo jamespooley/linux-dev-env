@@ -73,7 +73,8 @@ Rscript -e 'install.packages(c(\
   "renv", \
   "pool", \
   "gratia", \
-  "mgcv"
+  "mgcv", \
+  "timevis"
 ))'
 
 Rscript -e 'devtools::install_github("cnchapman/choicetools")'

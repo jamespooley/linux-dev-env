@@ -52,6 +52,8 @@ Rscript -e 'install.packages(c(\
   "shinybs", \
   "shinycssloaders", \
   "golem", \
+  "shinyloadtest", \
+  "shinytest", \
   "RPostgres", \
   "aws.s3", \
   "bigrquery", \
@@ -61,6 +63,9 @@ Rscript -e 'install.packages(c(\
   "CausalImpact", \
   "forecastML", \
   "fables", \
+  "tsibble", \
+  "feasts", \
+  "modeltime", \
   "tsutils", \
   "pammmtools", \
   "bsts", \
@@ -78,6 +83,7 @@ Rscript -e 'install.packages(c(\
 ))'
 
 Rscript -e 'devtools::install_github("cnchapman/choicetools")'
+Rscript -e 'devtools::install_github("google/amss")'
 Rscript -e 'devtools::install_github("gadenbuie/rsthemes")'
 
 apt install gdebi-core

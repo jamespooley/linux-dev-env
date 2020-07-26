@@ -80,7 +80,7 @@ pip install ratelimit
 deactivate
 
 
-mkvirtualenv --python=$(which python 3) fullstack
+mkvirtualenv --python=$(which python 3) webdev
 
 workon webdev
 

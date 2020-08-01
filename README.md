@@ -4,6 +4,8 @@ Scripts to get my Linux development environment up and running
 
 ### Overview
 
+<img src="https://camo.githubusercontent.com/7c9b27101ba491969d016f2f2427c3e066f7bd0b/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67">
+
 **NOTE:** This is a WIP so no "one script to install them all" is ready ... yet.
 
 An attempt to get most of the software I need to get my work done centralized in one place.

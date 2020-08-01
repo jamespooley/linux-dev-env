@@ -25,6 +25,7 @@ fi
 Rscript -e 'install.packages(c(\
   "tidyverse", \
   "rlang", \
+  "data.table", \
   "processx", \
   "devtools", \
   "vroom", \

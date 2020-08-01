@@ -33,6 +33,11 @@ function run_dots() {
       echo ""
       ./postgres.sh
     fi
+    if [ $arg == "other" ] || [ $arg == "all" ]; then
+      echo ""
+      echo "Setting up general..."
+      echo ""
+    fi
   done
 }
 

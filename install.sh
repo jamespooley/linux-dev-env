@@ -35,7 +35,7 @@ function run_dots() {
     fi
     if [ $arg == "other" ] || [ $arg == "all" ]; then
       echo ""
-      echo "Setting up general..."
+      echo "Setting up general software..."
       echo ""
     fi
   done

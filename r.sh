@@ -61,6 +61,8 @@ Rscript -e 'install.packages(c(\
   "httr", \
   "plumber", \
   "forecast", \
+  "xts", \
+  "zoo", \
   "urca", \
   "CausalImpact", \
   "forecastML", \

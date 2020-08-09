@@ -31,6 +31,7 @@ Rscript -e 'install.packages(c(\
   "vroom", \
   "readxl", \
   "repurrrsive", \
+  "distributional", \
   "profvis", \
   "lubridate", \
   "broom", \

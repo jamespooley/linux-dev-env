@@ -33,6 +33,7 @@ pip install FATS
 pip install scikit-learn
 pip install scikit-image
 pip install imbalanced-learn
+pip install metric-learn
 pip install xgboost
 pip install mlxtend
 pip install glmnet

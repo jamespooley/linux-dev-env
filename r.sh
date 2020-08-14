@@ -62,6 +62,7 @@ Rscript -e 'install.packages(c(\
   "httr", \
   "plumber", \
   "forecast", \
+  "gratis", \
   "xts", \
   "zoo", \
   "urca", \

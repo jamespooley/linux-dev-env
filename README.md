@@ -33,3 +33,4 @@ for setting up a new developer machine.
 * [An Emacs Starter Kit for the Social Sciences](https://kieranhealy.org/resources/emacs-starter-kit/)
 * [Improving the Command-Line Postgres Experience](https://thoughtbot.com/blog/improving-the-command-line-postgres-experience)
 * [Post-Installation Steps for Linux](https://docs.docker.com/engine/install/linux-postinstall/) from the Docker docs
+* [MDS software stack install instructions for Ubuntu](https://ubc-mds.github.io/resources_pages/install_ds_stack_ubuntu/)

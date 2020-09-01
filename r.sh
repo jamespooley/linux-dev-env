@@ -94,6 +94,7 @@ Rscript -e 'devtools::install_github("cnchapman/choicetools")'
 Rscript -e 'devtools::install_github("google/amss")'
 Rscript -e 'devtools::install_github("gadenbuie/rsthemes")'
 Rscript -e 'devtools::install_github("gadenbuie/shrtcts")'
+Rscript -e 'devtools::install_github("ColinFay/bubble")'
 
 apt install gdebi-core
 curl -Llso \

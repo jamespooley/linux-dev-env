@@ -28,6 +28,7 @@ Rscript -e 'install.packages(c(\
   "data.table", \
   "processx", \
   "devtools", \
+  "remotes", \
   "vroom", \
   "readxl", \
   "repurrrsive", \

@@ -88,7 +88,8 @@ Rscript -e 'install.packages(c(\
   "mgcv", \
   "timevis", \
   "mvtnorm", \
-  "prompt"
+  "prompt", \
+  "Boruta"
 ))'
 
 Rscript -e 'remotes::install_github("cnchapman/choicetools")'

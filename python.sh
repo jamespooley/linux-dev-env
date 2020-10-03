@@ -79,6 +79,7 @@ pip install cvxopt
 pip install pycaret
 pip install pyomo
 pip install ratelimit
+pip install Boruta
 
 deactivate
 

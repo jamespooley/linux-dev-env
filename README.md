@@ -34,3 +34,4 @@ for setting up a new developer machine.
 * [Improving the Command-Line Postgres Experience](https://thoughtbot.com/blog/improving-the-command-line-postgres-experience)
 * [Post-Installation Steps for Linux](https://docs.docker.com/engine/install/linux-postinstall/) from the Docker docs
 * [MDS software stack install instructions for Ubuntu](https://ubc-mds.github.io/resources_pages/install_ds_stack_ubuntu/)
+* [Two Environment Variables for More Robust R Code](https://www.datascienceblog.net/post/programming/more-robust-r-code-with-environment-variables/)

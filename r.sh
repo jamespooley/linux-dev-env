@@ -55,6 +55,7 @@ Rscript -e 'install.packages(c(\
   "shinybs", \
   "shinycssloaders", \
   "golem", \
+  "DT", \
   "shinyloadtest", \
   "shinytest", \
   "RPostgres", \

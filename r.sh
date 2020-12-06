@@ -101,6 +101,7 @@ Rscript -e 'remotes::install_github("gadenbuie/shrtcts")'
 Rscript -e 'remotes::install_github("ColinFay/bubble")'
 Rscript -e 'remotes::install_github("wlandau/targets")'
 Rscript -e 'remotes::install_github("wlandau/stantargets")'
+Rscript -r 'devtools::install_github("react-R/reactR")'
 
 apt install gdebi-core
 curl -Llso \

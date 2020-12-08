@@ -93,7 +93,8 @@ Rscript -e 'install.packages(c(\
   "prompt", \
   "Boruta", \
   "politicaldata", \
-  "uplift"
+  "uplift", \
+  "CVXR"
 ))'
 
 Rscript -e 'remotes::install_github("cnchapman/choicetools")'

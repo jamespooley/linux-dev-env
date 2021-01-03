@@ -81,6 +81,7 @@ pip install pycaret
 pip install pyomo
 pip install ratelimit
 pip install Boruta
+pip install cassandra-driver
 
 deactivate
 

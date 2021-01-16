@@ -36,3 +36,4 @@ for setting up a new developer machine.
 * [MDS software stack install instructions for Ubuntu](https://ubc-mds.github.io/resources_pages/install_ds_stack_ubuntu/)
 * [Two Environment Variables for More Robust R Code](https://www.datascienceblog.net/post/programming/more-robust-r-code-with-environment-variables/)
 * [`jupyterlab-vimrc`](https://github.com/jwkvam/jupyterlab-vim)
+* [Gogh](https://mayccoll.github.io/Gogh/)

@@ -69,6 +69,7 @@ pip install pytest-flask
 pip install sqlalchemy
 pip install psycopg2
 pip install requests
+pip install requests-toolbelt
 pip install click
 pip install tqdm
 pip install beautifulsoup4
@@ -91,6 +92,7 @@ mkvirtualenv --python=$(which python 3) webdev
 workon webdev
 
 pip install requests
+pip install requests-toolbelt
 pip install aoihttp
 pip install aoidns
 pip install Flask

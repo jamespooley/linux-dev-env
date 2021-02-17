@@ -16,6 +16,8 @@ apt install neovim
 apt install python-neovim
 apt install python3-neovim
 
+apt-get install nmap
+
 # Cloud Platform Command Line Tools
 
 pip install awscli

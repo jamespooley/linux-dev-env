@@ -31,6 +31,7 @@ pip install sktime
 pip install pmdarima
 pip install FATS
 pip install scikit-learn
+pip install scikit-optimize
 pip install scikit-image
 pip install imbalanced-learn
 pip install metric-learn

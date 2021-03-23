@@ -85,6 +85,7 @@ pip install ratelimit
 pip install Boruta
 pip install cassandra-driver
 pip install python-jose
+pip install dash
 
 deactivate
 

@@ -87,6 +87,7 @@ pip install cassandra-driver
 pip install python-jose
 pip install dash
 pip install plotly
+pip install pygam
 
 deactivate
 

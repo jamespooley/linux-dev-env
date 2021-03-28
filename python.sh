@@ -89,6 +89,7 @@ pip install dash
 pip install plotly
 pip install pygam
 pip install python-pptx
+pip install pyfarmhash
 
 deactivate
 

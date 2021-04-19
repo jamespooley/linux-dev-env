@@ -59,6 +59,10 @@ pip install python-yaml
 pip install ujson
 pip install feather-format
 pip install apache-airflow
+pip install apache-airflow-providers-postgres
+pip install apache-airflow-providers-amazon
+pip install apache-airflow-providers-google
+pip install apache-airflow-providers-microsoft-azure
 pip install boto3
 pip install Flask
 pip install flask-sqlalchemy

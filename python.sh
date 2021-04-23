@@ -60,6 +60,7 @@ pip install ujson
 pip install feather-format
 pip install apache-airflow
 pip install apache-airflow-providers-postgres
+pip install apache-airflow-providers-docker
 pip install apache-airflow-providers-amazon
 pip install apache-airflow-providers-google
 pip install apache-airflow-providers-microsoft-azure

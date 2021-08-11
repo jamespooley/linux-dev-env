@@ -96,6 +96,7 @@ pip install pygam
 pip install python-pptx
 pip install pyfarmhash
 pip install pytest-docker-tools
+pip install mlflow
 
 deactivate
 
